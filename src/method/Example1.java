@@ -20,6 +20,7 @@ public class Example1 {
 	public static void test2()
 	{
 		System.out.println("This is static regular test2 method");
+		System.out.println("exit");
 	}
 	
 }
